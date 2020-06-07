@@ -1,0 +1,30 @@
+.comments__comment{
+    height:auto;
+    max-width: 100%;
+    margin: 0; 
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px){
+    .comments__comment{
+        display: grid;
+        grid-template-columns: 100%;
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px){
+    .comments__comment{
+        display: grid;
+        grid-template-columns: 100%;
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1279px){
+    .comments__comment{
+        padding-right: 19px;
+    }
+    .comments__comment:last-child{
+        padding-right: 0;
+    }
+}

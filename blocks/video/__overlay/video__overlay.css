@@ -1,0 +1,29 @@
+.video__overlay{
+    position: absolute;
+    opacity: 0.5;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: black;
+    transition: opacity 0.5s ease-in;
+    border-radius: 5px;
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+.video__overlay:hover{
+    opacity: 0.8;
+}
+
+/* .video__overlay:hover .title{
+    opacity: 1;
+}
+
+.video__overlay:hover .subtitle{
+    opacity: 1;
+} */
+
+
+
+

@@ -1,0 +1,12 @@
+.cover__overlay{
+    opacity: 0.5;
+    border-radius: 0;
+}
+
+.cover__overlay:hover{
+    opacity: 0.8;
+}
+
+
+
+

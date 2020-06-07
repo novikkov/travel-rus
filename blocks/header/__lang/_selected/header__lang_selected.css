@@ -1,0 +1,16 @@
+.header__lang_selected{   
+    text-decoration-line: underline;
+    margin-right: 18px;
+}
+
+@media screen and (min-width: 320px) and (max-width: 374px){
+    .header__lang_selected{
+        margin-right: 16px;
+    }
+}
+
+@media screen and (min-width: 375px) and (max-width: 767px){
+    .header__lang_selected{
+        margin-right: 16px;
+    }
+}

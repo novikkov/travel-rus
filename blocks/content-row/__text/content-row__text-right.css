@@ -1,0 +1,12 @@
+.content-row__text-right{
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 16px;
+    color: #FFFFFF;
+}
+
+.bold{
+    font-weight: bold;
+}

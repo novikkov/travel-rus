@@ -1,0 +1,21 @@
+.additional__item{
+    position: relative;
+    max-width: 323px;
+    height: auto;
+}
+
+.additional__item:nth-child(1){
+    background-image: url("/project__travel/images/");
+}
+.additional__item:nth-child(2){
+    background-image: url("/project__travel/images/shickan.jpg");
+    background-size: 100% 100%;
+    z-index: 1;
+    border-radius: 5px;
+}
+.additional__item:nth-child(3){
+    
+}
+.additional__item:nth-child(4){
+    
+}
